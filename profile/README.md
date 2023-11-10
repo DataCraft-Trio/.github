@@ -7,7 +7,13 @@ Welcome to DataCraft Trio, part of the final project for the course IT 6037 - Da
 - [Learning Outcomes](#learning-outcomes)
 - [Project Requirements](#project-requirements)
 - [Tasks Overview](#tasks-overview)
-  - [Task 1: Team Organisation](#task_1:_team_organisation)
+  - [Task 1: Team Organisation](#task-1-team-organisation)
+  - [Task 2: Reflective Journal (Individual)](#task-2-reflective-journal-individual)
+  - [Task 3: Requirements Analysis & Planning:](#task-3-requirements-analysis-and-planning)
+  - [Task 4: Solution Design:](#task-4-solution-design)
+  - [Task 5: Implementation and Testing:](#task-5-implementation-and-testing)
+- [Instructions for Team Members](#instructions-for-team-members)
+- [Getting Started](#getting-started) 
 
 
 
@@ -68,6 +74,7 @@ The client would like the database to have the following functionality:
 * Create a team contract
 * Stand-ups Meetings
 * Team Process Self-Evaluation
+  
 ### Task 2: Reflective Journal (Individual)
 Task Deliverables:
 * Evidence of personal journal entries, including:
@@ -81,7 +88,7 @@ Task Deliverables:
   * Two implementation commentaries
   * One code review reflection
   * One testing commentary
-### Task 3: Requirements Analysis & Planning:
+### Task 3: Requirements Analysis and Planning:
 **Planning Document**
 1. As a team, analyse the client requirements presented in this document and brainstorm solutions until you come up with a possible database solution that is appropriate for this project and that is acceptable to all team members (use a decision-making method you previously agreed upon).
 
@@ -153,8 +160,6 @@ Show the System Design document to the tutor and get their approval of the datab
 3. Show the application to the client (the tutor) and get the client’s approval.
 #### Packaging:
 4. Once you get the client’s approval for iteration 4, download the final version of the code into a zip file, ready for submission.
-
-
 
 
 
