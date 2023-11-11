@@ -171,7 +171,7 @@ Show the System Design document to the tutor and get their approval of the datab
 
 ## Getting Started
 
-For detailed information on the project, refer to the [Project Wiki](link-to-wiki). Each team member is encouraged to explore and contribute to the shared knowledge base.
+For detailed information on the project, refer to the [Project Wiki]([link-to-wiki](https://github.com/DataCraft-Trio/.github/wiki/Planning-Document)). Each team member is encouraged to explore and contribute to the shared knowledge base.
 
 **Note:** This project is part of the final assessment for IT 6037 - Data Access and Management (October 2023) and will be assessed both as a team and as an individual.
 
